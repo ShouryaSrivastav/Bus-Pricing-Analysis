@@ -1,4 +1,4 @@
-# 🚀 Bus Pricing Analysis (Data Analytics Assignment)
+# 🚀 Bus Pricing Analysis (Data And Growth Intern Assignment)
 
 ## 📌 Objective
 The goal of this project was to analyze bus pricing data and identify whether listings are overpriced, underpriced, or fairly priced compared to similar buses.
